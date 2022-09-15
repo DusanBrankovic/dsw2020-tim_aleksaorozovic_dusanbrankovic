@@ -1,0 +1,5 @@
+package rudok.gui.error;
+
+public enum ErrorType {
+    WS_CANNOT_BE_DELETED, NAME_CANNOT_BE_EMPTY, SAME_NAME, NOT_PROJECT, PROJECT_NOT_OPENED, SLOT_NOT_SELECTED
+}
